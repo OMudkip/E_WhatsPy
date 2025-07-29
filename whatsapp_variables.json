@@ -1,0 +1,17 @@
+{
+  "DESCONECTAR2": "//*[@id=\"app\"]/div/div[2]/div[3]/header/header/div/span/div/span/div[2]/span/div/ul/li[4]/div",
+  "LOADING_CONVERSATION": "//*[@id='app']/div/span[2]/div/span/div/div/div/div/div/div[1]",
+  "SEND_FILE_BUTTON": "//*[@id=\"app\"]/div/div[3]/div/div[2]/div[2]/span/div/div/div/div[2]/div/div[2]/div[2]/div/div",
+  "HEADER": "//*[@id=\"main\"]/header",
+  "INPUT_FILE": "//*[@id=\"app\"]/div/span[5]/div/ul/div/div/div[2]/li/div/input",
+  "INPUT_DOCUMENT": "//*[@id=\"app\"]/div/span[6]/div/ul/div/div/div[1]/li/div/input",
+  "DESCONECTAR1": "//*[@id=\"app\"]/div/div[3]/div[3]/header/header/div/span/div/span/div[2]/span/div/ul/li[4]/div",
+  "ATTACH_MENU": "//*[@id=\"main\"]/footer/div[1]/div/span/div/div[2]/div/div[1]/button",
+  "START_CONVERSATION": "//*[@id=\"action-button\"]",
+  "INPUT_BOX": "//*[@id=\"main\"]/footer/div[1]/div/span/div/div[2]/div[1]/div/div[1]",
+  "NOT_FOUND_ELEMENT": "//*[@id=\"app\"]/div/span[2]/div/span/div/div/div",
+  "DISCONNECT": "#app > div > span:nth-child(3) > div > div > div > div > div > div > div.x78zum5.x8hhl5t.x13a6bvl.x13crsa5.x1mpkggp.x18d9i69.x1t2a60a.xp4054r.xuxw1ft > div > button.x889kno.x1a8lsjc.xbbxn1n.xxbr6pl.x1n2onr6.x1rg5ohu.xk50ysn.x1f6kntn.xyesn5m.x1z11no5.xjy5m1g.x1mnwbp6.x4pb5v6.x178xt8z.xm81vs4.xso031l.xy80clv.x13fuv20.xu3j5b3.x1q0q8m5.x26u7qi.x1v8p93f.xogb00i.x16stqrj.x1ftr3km.x1hl8ikr.xfagghw.x9dyr19.x9lcvmn.xbtce8p.x14v0smp.xo8ufso.xcjl5na.x1k3x3db.xuxw1ft.xv52azi",
+  "SIDE_ELEMENT": "side",
+  "THREE_POINTS": "//*[@id=\"app\"]/div/div[3]/div[3]/header/header/div/span/div/span/div[2]/div",
+  "URL_WHATSAPP":"https://web.whatsapp.com/"
+}
