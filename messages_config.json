@@ -1,0 +1,6 @@
+{
+  "msg_inicial": "Olá, *{name}*! Tudo bem?\nSomos da Engeselt Engenharia, prestadora de serviços da Energisa. Estamos entrando em contato referente a sua solicitação no endereço *{endereço}*  para confirmar algumas informações e assim prosseguirmos com a sua solicitação Energisa N° {os}.\nPreciso que me encaminhe por meio deste Whatsapp as seguintes informações:",
+  "msg1": "1 - A localização onde o projeto será realizado;",
+  "msg2": "2 - Uma referência para encontrar o local, e uma foto da casa/rua;",
+  "msg3": "3 - Já possui energia na propriedade?"
+}
